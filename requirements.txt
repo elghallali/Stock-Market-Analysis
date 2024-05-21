@@ -1,0 +1,16 @@
+dvc
+dvc-gdrive
+pytest
+pytest-cov
+pylint
+fire
+black
+ipython
+mlflow
+scikit-learn
+seaborn
+pandas_datareader
+yfinance
+ipykernel
+keras
+tensorflow
